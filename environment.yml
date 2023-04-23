@@ -1,4 +1,4 @@
-name: USR
+name: USR1
 channels:
   - pytorch
   - nvidia
@@ -16,4 +16,8 @@ dependencies:
   - pip:
     - wandb==0.13.5
     - tqdm>=4.62.3
+    - nltk
+    - scikit-learn
+    - pandas
+
 
