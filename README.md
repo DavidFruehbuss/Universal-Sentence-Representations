@@ -33,7 +33,7 @@ For installing the environment run:
 
 For loading the glove word embeddings:
 
-1. cd pretrained
+1. cd data
 2. !wget http://nlp.stanford.edu/data/glove.840B.300d.zip
 
 For training a model run:
